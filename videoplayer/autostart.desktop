@@ -1,0 +1,3 @@
+[Desktop Entry]
+Name=video_player
+Exec=python3 /home/pi/projects/video_player/living_portrait_player.py
